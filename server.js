@@ -11,9 +11,9 @@ const options = {
   definition: {
     openapi: "3.0.0",
     info: {
-      title: "66130045 Pathompong Chanphiw API",
+      title: "66130045 Pathompong Chanphiw API2",
       version: "1.0.0",
-      description: "WE DPU Student API  Lab",
+      description: "WE2023 DPU Student API Lab",
     },
   },
   apis: ["./routes/*.js"],

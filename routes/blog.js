@@ -71,6 +71,13 @@ const blogs = [
     cover:
       "https://cms.dmpcdn.com/musicarticle/2020/10/08/93f00630-0940-11eb-a3b0-f9d575a2517d_original.jpg",
   },
+  {
+    id: 11,
+    title: "อ. ฝุ่น",
+    description: "WE 2024 Lab2",
+    cover:
+      "https://cms.dmpcdn.com/musicarticle/2020/10/08/93f00630-0940-11eb-a3b0-f9d575a2517d_original.jpg",
+  },
 ]
 
 /**
